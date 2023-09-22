@@ -4,6 +4,9 @@ The assessment is designed to assess your skills in building a Vue 3 application
 
 Mockup: https://mockittapp.wondershare.com/proto/ZbRjCnXFrpggqziKM8Vsgo/sharing?view_mode=read_only
 
+To make the current repo work netlify for instance, fork the project in Github with the following git repo: https://gitlab.onecentral.net/assessments/frontend-assessment.git
+And then you can easily deploy it in Netlify. 
+
 ## 3-Step Wizard (High Priority)
 
 Create a 3-step wizard with the following steps:
