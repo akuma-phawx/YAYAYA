@@ -11,7 +11,7 @@ Create a 3-step wizard with the following steps:
 **Step 1:**
 
 - Contains an input field.
-- After typing at least 3 characters, it should perform a search using any free API of your choice and display the results.
+- After typing at least 3 characters, it should perform a search using any free API of your choice and display the results. You can use for example https://data.overheid.nl/json/api/1/action/application_search?search=kaart You can put the search string into the 'search' query parameter.
 - Clicking on a result should navigate to the next step.
 
 **Step 2:**
@@ -21,8 +21,8 @@ Create a 3-step wizard with the following steps:
 
 **Step 3:**
 
-- Contains three input fields (First Name, Last Name, and Email) that should be validated using Vuelidate.
-- When the "Submit" button is clicked, validate the inputs, and display a success message.
+- Contains three input fields (First Name, Last Name, and Email) that should be validated using Vuelidate 
+- When the "Submit" button is clicked, validate the inputs (only validate for 'required' and 'email'), and display a success message.
 
 ## State Persistence (High Priority)
 
