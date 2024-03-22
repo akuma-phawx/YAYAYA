@@ -1,4 +1,4 @@
-# Assessment Overview
+# Assessment Overview 🧪
 
 The assessment is designed to assess your skills in building a Vue 3 application using Vite, Bootstrap, Vuelidate, TypeScript, Vue Transitions, and your ability to create an interactive 3-step wizard. We have bootstrapped a project for you which you can fork. It already includes the project structure (feel free to expand it), bootstrap, vuelidate and @vue/test-utils. Follow the below:
 
